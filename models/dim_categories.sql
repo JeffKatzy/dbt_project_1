@@ -1,0 +1,1 @@
+select catid as id, catname as name, catgroup as group from category
