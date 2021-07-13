@@ -1,0 +1,1 @@
+SELECT customer_id, store_id, initcap(first_name) as first, initcap(last_name) as last, LOWER(email) as email, address_id, active, create_date, last_update FROM sakila.customer
