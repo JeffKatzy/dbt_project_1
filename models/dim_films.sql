@@ -1,0 +1,1 @@
+select film_id, release_year as year, language_id, rental_duration as days_rented, rental_rate as price_per_day, length as minutes, replacement_cost from sakila.film
